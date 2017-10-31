@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>Hello, world!</title>
+<title>We help you doing things easily!</title>
 <!-- Required meta tags -->
 <meta charset="utf-8">
 <meta name="viewport"
@@ -17,7 +17,7 @@
 	<div class="container">
 		<div class="jumbotron">
 			<h1>Welcome To Help </h1>
-			<p>We help you doing this easily.
+			<p>We help you doing things easily.
 			</p>
 		</div>
 		<p>Transfer Ownership</p>
