@@ -7,10 +7,10 @@ import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
 @RestController
-public class RtotrackerApplication {
+public class RtoTrackerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RtotrackerApplication.class, args);
+		SpringApplication.run(RtoTrackerApplication.class, args);
 	}
 	 @GetMapping("/greeting")
 	  public String sample()
